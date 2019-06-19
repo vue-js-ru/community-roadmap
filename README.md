@@ -1,5 +1,5 @@
-# community-roadmap
-Roadmap of Russian Vue.js Developers Community
+# Roadmap of Russian Vue.js Developers Community
 
-- [ ] Code of conduct - June, maintainer - @shepard89
-- [ ] Community site - Jun - August, maintainer - @Perkovec
+- [ ] Code of conduct - **June**, maintainer - **@shepard89**
+- [ ] Community site - **Jun - August**, maintainer - **@Perkovec**
+- [ ] Vue.js Jobs Feed for site and telegram channel - **September**, maintainer - **@Perkovec**
